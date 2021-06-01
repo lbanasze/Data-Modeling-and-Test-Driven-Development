@@ -1,7 +1,6 @@
-Sean Applegate
-Laura Banaszewski
 
-Deliverable 2
+# NOTE: Originally uploaded to GitLab 
+Sean Applegate and Laura Banaszewski
 
 # Overview:
 	
